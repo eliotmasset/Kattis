@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Personnal ignores
+note.txt
+paste.txt
