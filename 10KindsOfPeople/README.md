@@ -8,7 +8,7 @@ Réussi ? ```Oui```
 
 Meilleur temps : ```0.42 s```
 
-Score : ```21.2```
+url : [kattis](https://open.kattis.com/problems/10kindsofpeople)
 
 ## Sources
 
