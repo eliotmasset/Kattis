@@ -2,7 +2,7 @@
 
 ## Infos :
 
-Difficulté : ```6.7 Medium```
+Difficulté : ```6.7 Hard```
 
 Réussi ? ```Oui```
 
